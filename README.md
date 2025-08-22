@@ -92,8 +92,6 @@
 
 ## 🧠 Soft Skills  
 
-## 🧠 Soft Skills  
-
 Effective Communication, Time Management, Team Collaboration, Reliability, Analytical Thinking, Problem-Solving, Mentorship, Adaptability, Continuous Learning  
 
 
