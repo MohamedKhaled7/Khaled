@@ -92,15 +92,10 @@
 
 ## 🧠 Soft Skills  
 
-- Communication  
-- Time Management  
-- Teamwork  
-- Dependability  
-- Analytical Thinking  
-- Problem-Solving  
-- Mentorship  
-- Adaptability  
-- Continuous Learning  
+## 🧠 Soft Skills  
+
+Effective Communication, Time Management, Team Collaboration, Reliability, Analytical Thinking, Problem-Solving, Mentorship, Adaptability, Continuous Learning  
+
 
 ## 🧾 Personal Information  
 
@@ -111,10 +106,6 @@
 
 ## 🌐 Languages  
 
-- **English**: Very Good (Speaking & Writing)  
+- **English**: Advanced  
 - **Arabic**: Native (Mother Tongue)  
-
-## 🎖️ Military Service  
-
-- **Status**: Completed  
 
