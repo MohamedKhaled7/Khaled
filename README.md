@@ -57,4 +57,10 @@
 #### 🌐 Network Planning Engineer  
 **WE | Jun 2020 – Jan 2022**  
 - **Network Design**: Developed FTTH network designs based on service provider requirements, including placement of fiber cables and components.  
-- **Feasibility Analysis**: Conducted technical and economic studies for network deployments.  
+- **Feasibility Analysis**: Conducted technical and economic studies for network deployments.
+
+#### 🎖️ Communication Engineer (Military Service)  
+**Communications Engineer | Oct 2018 – Dec 2019**  
+- Served as a **Communications Engineer** during military service.  
+- Provided IT support and maintained communication systems to ensure operational readiness.  
+
