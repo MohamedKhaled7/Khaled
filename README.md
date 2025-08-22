@@ -5,7 +5,12 @@
 📧 mo7amedkhaledarb7@gmail.com <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-khaled-69858b114/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByrSAWFMSX2%2BTcn6erProQ%3D%3D)
 
+## 🎓 Education  
 
+- **Bachelor of Engineering in Telecommunication Engineering**  
+  *Menoufia University, Egypt* | Graduated **July 2018**  
+  Grade: **Good**
+  
 ## 💼 Professional Experience  
 
 #### 🏦 Threat Intelligence Senior Analyst  
@@ -59,8 +64,57 @@
 - **Network Design**: Developed FTTH network designs based on service provider requirements, including placement of fiber cables and components.  
 - **Feasibility Analysis**: Conducted technical and economic studies for network deployments.
 
-#### 🎖️ Communication Engineer (Military Service)  
+#### 🎖️ Communications Engineer (Military Service)  
 **Communications Engineer | Oct 2018 – Dec 2019**  
 - Served as a **Communications Engineer** during military service.  
 - Provided IT support and maintained communication systems to ensure operational readiness.  
+
+## 📜 Certifications  
+
+-  **eCTHP – Threat Hunting Professional** (*eLearnSecurity*, 2024)  
+-  **eCPPT – Digital Forensics Professional** (*eLearnSecurity*, 2023)  
+-  **CyberOps Associate** (2024)  
+-  **Intro to Splunk** (2025)  
+-  **QRadar Administration** (2025)  
+-  **Autopsy Fundamentals** (*Cybrary*, 2025)
+
+## 🛠️ Technical Skills  
+
+- **Incident Handling & Response**  
+- **EDR, NIPS, Email Sandboxing**  
+- **Endpoint Solutions, DLP, Proxy**  
+- **The Hive IR Platform**  
+- **SIEM Solutions**: QRadar, Splunk, ELK  
+- **Data Risk Protection & Surface Account Management** (using *Group-IB*)  
+- **Threat Modeling**  
+- **Yara Rules, RedLine**  
+- **PowerShell**  
+
+## 🧠 Soft Skills  
+
+- Communication  
+- Time Management  
+- Teamwork  
+- Dependability  
+- Analytical Thinking  
+- Problem-Solving  
+- Mentorship  
+- Adaptability  
+- Continuous Learning  
+
+## 🧾 Personal Information  
+
+- **Nationality**: Egyptian  
+- **Military Status**: Completed  
+- **Marital Status**: Married  
+- **Date of Birth**: 24 Jun 1994  
+
+## 🌐 Languages  
+
+- **English**: Very Good (Speaking & Writing)  
+- **Arabic**: Native (Mother Tongue)  
+
+## 🎖️ Military Service  
+
+- **Status**: Completed  
 
