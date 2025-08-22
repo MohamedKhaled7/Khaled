@@ -1,11 +1,10 @@
-## Mohamed Khaled - Senior Threat Intelligence & Hunting Analyst ##
-📍 Giza, Egypt
+# Mohamed Khaled - Senior Threat Intelligence & Hunting Analyst  
 
-📞 +201093519962
+📍 Giza, Egypt <br>
+📞 +201093519962 <br>
+📧 mo7amedkhaledarb7@gmail.com <br>
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-khaled-69858b114/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByrSAWFMSX2%2BTcn6erProQ%3D%3D)
 
-✉️ mo7amedkhaledarb7@gmail.com
-
-🔗  https://www.linkedin.com/in/mohamed-khaled-69858b114/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByrSAWFMSSX2%2BTcn6erProQ%3D%3D
 
 ## 🎯 Professional Summary  
 
